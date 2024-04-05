@@ -1,2 +1,2 @@
 # Hello-World
-tutorial for practicing GitHub
+Tutorial for practicing GitHub
